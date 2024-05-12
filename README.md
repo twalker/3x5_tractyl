@@ -7,6 +7,8 @@ A 3x5 Dactyl keyboard with a trackball on the top left.
 - [PMW3389 Motion Sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor)
 - [Elite Pi](https://keeb.io/products/elite-pi-usb-c-pro-micro-replacement-rp2040)
 - [Cosmos keyboard configurator](https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKNcBMM0BUAJAAEgBEhAIwgMYxgogowU4AChaMIgOMhAIAxAAOAAYACAAKMgBMMgB)
+  v3: https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYACAFKM0BMMMBUABAAEgBEhAIwgMYxgogowU4AChaMIgOMhAIAxAAOAAYACAAKMgBMMgBQlMIA+ABAXgG2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAZgB9AOoAegHoAHIAbABAJABiA64AQCAAQAwADgoWAGIAQHAAQDIAdgE0AGEBw==
+  v4: https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYACAFKNcBMM0BUABAAEgBEhAIwgMYxgogowU4AChaMIgOMhAIAxAAOAAYACAAKMgBMMgBQlQIA+ABAXgG2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAZgB2ASoAegHoAGQA7AByAGQAYQHuAEAgAEAMAA4KFgBiAEBwAEAyAHYBNABhAc=
 
 # Dactyl build guides
 
