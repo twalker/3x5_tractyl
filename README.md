@@ -18,7 +18,6 @@ A 3x5 Dactyl keyboard with a trackball on the top left.
 
 https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKMMBMLkBUAJAAEgBEhAIwgMYiA4gowU4AChaMIgOMhAIAxAAOAAYACAAKMMBMLkBUhkwAAiAUBCAkIb4BBiA3ofAByCAeCjQxsECQlMIA+ABAngG2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAZgB2ASoAegHoAHIAbABAJABhAe4AQCAAQAwADgoWAGIAQHAAQDIAdgE0AGEBw==
 
-
 Updated wrist wrests:
 https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKMMBMLkBUAJAAEgBEhAIwgMYiA4gowU4AChaMIgOMhAIAxAAOAAYACAAKMMBMLkBUhkwAAiAUBCAkIb4BBiA3ofAByCAeCjQxsECQlQIA+ABAngG2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAZgBoAaoAcwIoAHIAbABAJABwgO4AcIDgAEAMAA4KFgBiAEBwAEAyAHYBNABhAc=
 
@@ -31,3 +30,15 @@ https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKMMBMLkBUAJAAEgBEhAIwgMYiA4go
 - https://github.com/ArtiomSu/qmk_firmware/tree/artiom_dactyl/keyboards/artiomsu_dactyl
 - https://medium.com/swlh/complete-idiot-guide-for-building-a-dactyl-manuform-keyboard-53454845b065
 - https://github.com/noahprince22/tractyl-manuform-keyboard
+
+## Issues
+
+- Could not configure dactyl generator with trackball holder. No response to github issue.
+- No model for a 38mm trackball. Needed to model a trackball holder in Fusion 360.
+- Diode in the wrong direction.
+- 3-4 Switch wires disconnected.
+- Trackball sensor too far from trackball to register movement.
+- Case model had corrupted geometry on thumb cluster bottom.
+- Case printing had layer shifts.
+- MCU holder was too tight.
+- Trackball wiring misconfigured (B2 and B3 in wrong order).
