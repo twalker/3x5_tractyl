@@ -18,8 +18,11 @@ A 3x5 Dactyl keyboard with a trackball on the top left.
 
 https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKMMBMLkBUAJAAEgBEhAIwgMYiA4gowU4AChaMIgOMhAIAxAAOAAYACAAKMMBMLkBUhkwAAiAUBCAkIb4BBiA3ofAByCAeCjQxsECQlMIA+ABAngG2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAZgB2ASoAegHoAHIAbABAJABhAe4AQCAAQAwADgoWAGIAQHAAQDIAdgE0AGEBw==
 
-Updated wrist wrests:
+Updated palm wrests:
 https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKMMBMLkBUAJAAEgBEhAIwgMYiA4gowU4AChaMIgOMhAIAxAAOAAYACAAKMMBMLkBUhkwAAiAUBCAkIb4BBiA3ofAByCAeCjQxsECQlQIA+ABAngG2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAZgBoAaoAcwIoAHIAbABAJABwgO4AcIDgAEAMAA4KFgBiAEBwAEAyAHYBNABhAc=
+
+Beta v3 WIP:
+https://ryanis.cool/cosmos2/beta#cm:CoEBCg0SBRCQQSATEgASADgxCg0SBRCQTSATEgASADgdCiYSDwiWgBIQgFcgJ0CA8I6AGhIAEgASAxCwLxIDELBfOAlAgPC8AgoVEgUQkGUgExIAEgMQsDsSAxCwazgKChMSBRCQcSATEgASADgeQICGisAHGABA6IWgrvBVSN6Mq8ABCmMKFxITEMCAAkCAgJgCSMKZoJWQvAFQQzgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKFBIQEEBAgID4AUjmmfynkAtQV1B/GAIiCgjIARDIARgAIABAy4v8n9AxSK2R3I3BkwYYgiBIBlhIYANoAHICIDI=
 
 # Dactyl build guides
 
@@ -42,3 +45,5 @@ https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBSAEKMMBMLkBUAJAAEgBEhAIwgMYiA4go
 - Case printing had layer shifts.
 - MCU holder was too tight.
 - Trackball wiring misconfigured (B2 and B3 in wrong order).
+- Dupont connectors pushing and popping keys out--needed to replace microcontroller with 90deg headers.
+- Keys popping out -- needed to glue switches down.
