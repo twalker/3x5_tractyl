@@ -162,10 +162,12 @@ Updated screws to 7
 https://ryanis.cool/cosmos/beta#cm:CnQKERIFEJBBIBMSABIAODFAgIoBChASBRCQTSATEgASADgdQIA6ChUSBRCQWSATEgASAxCwLzgJQIC0vQIKEhIFEJBlIBMSABIDELA7OApAAAoTEgUQkHEgExIAEgA4HkCAhorABxgAQOiFoK7wVUjg0LLgAQqDAQowEhcIgDAQMBgIQNrM+BVIwpmglZC8AVCLAhITEMCAAkCAgJgCSMKZoJWQvAFQQzgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKFhISCAsQQECAgPgBSOaZ/KeQC1BXUH8KA1CCAhgCIgoIuQEQuQEYACAAQO+L/J/QMUitkdyNwZMGCqABChMSBRCQNSATEgASAggLODJAgIoBChASBRCQKSATEgASADgeQIA6CigSGQiWgBIQgBsgJzB4QNyD8I+wBEiBn4CNkDgSABIAEgA4CkCAtL0CCikSBRCQESATEgASABIYCIgwEIAPGAkgJ0DHg8iNkDRI6aWIvLAHOAlAAAoTEgUQkAUgExIAEgA4HUCAhorABxgBQOeFoK7wVUjgzrLYARADGIsgIgkIwwEQuQEgiA44A4IBCgQAoQLUAigoKANYSGADaAByBpABGBCmAg=
 
 trackball mount and 2u left landing spacer, lower left mouse key
-ttps://ryanis.cool/cosmos/beta#cm:CnQKERIFEJBBIBMSABIAODFAgIoBChASBRCQTSATEgASADgdQIA6ChUSBRCQWSATEgASAxCwLzgJQIC0vQIKEhIFEJBlIBMSABIDELA7OApAAAoTEgUQkHEgExIAEgA4HkCAhorABxgAQOiFoK7wVUjg0LLgAQqDAQowEhcIizAQMBgIQNrYuBVIwpmglZC8AVCLAhITEMCAAkCAgJgCSMKZoJWQvAFQQzgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKFhISCAsQQECAgPgBSOaZ/KeQC1BXUH8KA1CCAhgCIgoIuQEQuQEYACAAQO+L/J/QMUitkdyNwZMGCp4BChMSBRCQNSATEgASAggLODJAgIoBChASBRCQKSATEgASADgeQIA6CiYSFwiWgBIQgBsgJ0Dcg/CPsARIgZ+AjZA4EgASABIAOApAgLS9AgopEgUQkBEgExIAEgASGAiIQBCADxgJICdAx4PIjZA0SOmliLywBzgJQAAKExIFEJAFIBMSABIAOB1AgIaKwAcYAUDnhaCu8FVI4M6y2AEQAxiLICIJCMMBELkBIIgOOAOCAQoEAKEC1AIoKCgDWEhgA2gAcgaQATcQpgLyAQIIAQ==
+https://ryanis.cool/cosmos/beta#cm:CnQKERIFEJBBIBMSABIAODFAgIoBChASBRCQTSATEgASADgdQIA6ChUSBRCQWSATEgASAxCwLzgJQIC0vQIKEhIFEJBlIBMSABIDELA7OApAAAoTEgUQkHEgExIAEgA4HkCAhorABxgAQOiFoK7wVUjg0LLgAQqDAQowEhcIizAQMBgIQNrYuBVIwpmglZC8AVCLAhITEMCAAkCAgJgCSMKZoJWQvAFQQzgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKFhISCAsQQECAgPgBSOaZ/KeQC1BXUH8KA1CCAhgCIgoIuQEQuQEYACAAQO+L/J/QMUitkdyNwZMGCp4BChMSBRCQNSATEgASAggLODJAgIoBChASBRCQKSATEgASADgeQIA6CiYSFwiWgBIQgBsgJ0Dcg/CPsARIgZ+AjZA4EgASABIAOApAgLS9AgopEgUQkBEgExIAEgASGAiIQBCADxgJICdAx4PIjZA0SOmliLywBzgJQAAKExIFEJAFIBMSABIAOB1AgIaKwAcYAUDnhaCu8FVI4M6y2AEQAxiLICIJCMMBELkBIIgOOAOCAQoEAKEC1AIoKCgDWEhgA2gAcgaQATcQpgLyAQIIAQ==
 
-another print (fantasy forest green)
+!!another print (fantasy forest green). And built!!
 
+Attempt at wrist wrests:
+https://ryanis.cool/cosmos/beta#cm:CnQKERIFEJBBIBMSABIAODFAgIoBChASBRCQTSATEgASADgdQIA6ChUSBRCQWSATEgASAxCwLzgJQIC0vQIKEhIFEJBlIBMSABIDELA7OApAAAoTEgUQkHEgExIAEgA4HkCAhorABxgAQOiFoK7wVUjg0LLgAQqDAQowEhcIizAQMBgIQNrYuBVIwpmglZC8AVCLAhITEMCAAkCAgJgCSMKZoJWQvAFQQzgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKFhISCAsQQECAgPgBSOaZ/KeQC1BXUH8KA1CCAhgCIgoIuQEQuQEYACAAQO+L/J/QMUitkdyNwZMGCp4BChMSBRCQNSATEgASAggLODJAgIoBChASBRCQKSATEgASADgeQIA6CiYSFwiWgBIQgBsgJ0Dcg/CPsARIgZ+AjZA4EgASABIAOApAgLS9AgopEgUQkBEgExIAEgASGAiIQBCADxgJICdAx4PIjZA0SOmliLywBzgJQAAKExIFEJAFIBMSABIAOB1AgIaKwAcYAUDnhaCu8FVI4M6y2AEQAxiLICIJCMMBELkBIIgOOAOCAQoEAKEC1AIoKCgDWEhgA3IRkAE3EKYCSACAAQBowQNwxgp4oI2cv/A48gECCAE=
 ---
 TODO:
 x adjust stagger (especially index)
@@ -181,16 +183,17 @@ x add reset hole
 ---
 # Build
 
-1. Flash MCU, connect sensor, and test trackball
-2. Glue ceramic balls to crater
-3. Use test print to prototype wiring technique with diodes
-4. Glue hotswap sockets
-5. Wire rows and columns
+1. Flash MCU, connect sensor, and test trackball (DONE)
+2. Glue ceramic balls to crater (DONE)
+3. Update Wiring Diagram
+4. Use test print to prototype wiring technique with diodes
+5. Glue hotswap sockets
+6. Wire rows and columns
    - Rows will be composed of diodes with legs (end near center, current outward)
    - Columns use small connector wires
-6. Wire TRRS and Reset button
-7. Wire Rows and columns
-8. Write custom firmware for 38 keys (3x5_4)
+7. Wire TRRS and Reset button
+8. Wire Rows and columns
+9. Refactor keymap for 38 keys (3x5_4)
 
 
 ### Custom firmware
@@ -267,8 +270,27 @@ layout: A list of key dictionaries comprising the layout. Each key dictionary co
             ]
         }
 ```
+
+homerow mod implementation to try:
+https://www.reddit.com/r/ErgoMechKeyboards/comments/1f18d8h/i_have_fixed_home_row_mods_in_qmk_for_everyone/
+```
+#undef QUICK_TAP_TERM
+#undef TAPPING_TERM
+#define TAPPING_TERM 250
+#define QUICK_TAP_TERM 120
+#define PERMISSIVE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
+```
+
+matrix explanation (see keymap setup: 1830 ):
+https://www.youtube.com/watch?v=bMTp51j7-iY&t=551s
 ---
 
 ## Case adjustments needed
-- [ ] 1mm or more bottom clearance for mouse sensor--it was touching bottom plate.
-- [ ]
+- [ ] 1mm or more bottom clearance for mouse sensor PCB, or raise ball up--it was touching bottom plate.
+- [ ] Raise trackball could up (z) a few millimeters.
+- [ ] Remove the reset button hole
+- [ ] Upper corner of sensor PCB touched wall and needed to be rounded.
+- [ ] Use the Skree trackball mount instead of the QMK on
+- [ ] Reorder row pins for a clear left to right wiring
+
